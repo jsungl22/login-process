@@ -8,6 +8,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 import java.util.Date;
 
+/**
+ * 세션 정보 확인
+ */
 @Slf4j
 @RestController
 public class SessionInfoController {
